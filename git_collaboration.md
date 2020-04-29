@@ -3,11 +3,14 @@
 _Anyone can collaborate with GitHub!_
 
 ####  Download pdf file (ko)
-[Feature Branch Workflow](https://www.dropbox.com/s/eguzp20h9nbjf00/feature-branch.pdf?dl=0)
-[Forking Workflow](https://www.dropbox.com/s/uj8k9qn686soign/forking.pdf?dl=0)
-[Gitflow Workflow](https://www.dropbox.com/s/2hxng012sbhmx5z/gitflow.pdf?dl=0)
+- [Feature Branch Workflow](https://www.dropbox.com/s/eguzp20h9nbjf00/feature-branch.pdf?dl=0)
 
-- Blog link about how to collaborate
+- [Forking Workflow](https://www.dropbox.com/s/uj8k9qn686soign/forking.pdf?dl=0)
+
+- [Gitflow Workflow](https://www.dropbox.com/s/2hxng012sbhmx5z/gitflow.pdf?dl=0)
+
+
+##### Blog link about how to collaborate
 Feature Branch Workflow: https://gmlwjd9405.github.io/2017/10/27/how-to-collaborate-on-GitHub-1.html
 
 - Forking Workflow: https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html
@@ -17,7 +20,7 @@ Feature Branch Workflow: https://gmlwjd9405.github.io/2017/10/27/how-to-collabor
 - Blog link about branch type
 Branch Type: https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html
 
-- Reference
+##### Reference
 
 https://github.com/Taeung/git-training
 
