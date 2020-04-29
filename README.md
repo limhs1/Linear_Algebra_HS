@@ -8,11 +8,11 @@
 
 
 #### Peoples
-+ [Kang](https://github.com/kyj0920)
-+ Kim
-+ [Ji](https://github.com/star6973)
-+ [Lim](https://github.com/limhs1)
-+ [Choi](https://github.com/kwangjunechoi7)
++ [YoungJu, Kang](https://github.com/kyj0920)
++ HyeonSeong,Kim
++ [MyungHwa,Ji](https://github.com/star6973)
++ [HS,Lim](https://github.com/limhs1)
++ [KwangJune, Choi](https://github.com/kwangjunechoi7)
 
 
 #### Directory
