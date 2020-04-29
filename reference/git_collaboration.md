@@ -4,6 +4,8 @@
 
 #### [github contributor 추가하기](https://itbellstone.tistory.com/99)
 
+#### [TEAM EDA](https://eda-ai-lab.tistory.com/category/TEAM%20EDA%20/EDA%201%EA%B8%B0%20%28%202018.03.01%20~%202018.09.16%20%29)
+
 
 _Anyone can collaborate with GitHub!_
 
