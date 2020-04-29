@@ -9,9 +9,9 @@
 
 #### Peoples
 + [YoungJu, Kang](https://github.com/kyj0920)
-+ HyeonSeong,Kim
-+ [MyungHwa,Ji](https://github.com/star6973)
-+ [HS,Lim](https://github.com/limhs1)
++ [HyeonSeong, Kim](https://github.com/khs070911)
++ [MyungHwa, Ji](https://github.com/star6973)
++ [H Seo, Lim](https://github.com/limhs1)
 + [KwangJune, Choi](https://github.com/kwangjunechoi7)
 
 
