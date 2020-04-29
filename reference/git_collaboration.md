@@ -1,5 +1,7 @@
 ## Git Collaboration
 
+#### [초심자를 위한 Gifhub 협업 튜토리얼](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
+
 _Anyone can collaborate with GitHub!_
 
 ####  Download pdf file (ko)
