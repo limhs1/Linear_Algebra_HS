@@ -2,9 +2,9 @@
 함성_선형대수학 스터디를 위한 저장소입니다.
 
 #### Peoples
-+ Kang
++ [Kang](https://github.com/kyj0920)
 + Kim
-+ Ji
++ [Ji](https://github.com/star6973)
 + Lim
 + [Choi](https://github.com/kwangjunechoi7)
 
@@ -19,10 +19,8 @@
 
 #### Time Line
 본 학습 및 프로젝트의 학습기간은 다음과 같습니다.
-
--
+  - 200111 ~ 20xxxx
 
 #### Seminar
 -
 
-####
