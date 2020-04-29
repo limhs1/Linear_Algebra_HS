@@ -1,6 +1,7 @@
 # Linear_Algebra_HS
 함성_선형대수학 스터디를 위한 저장소입니다.
 
+
 #### Peoples
 + [Kang](https://github.com/kyj0920)
 + Kim
@@ -8,7 +9,8 @@
 + Lim
 + [Choi](https://github.com/kwangjunechoi7)
 
-#### Dir
+
+#### Directory
 본 저장소의 디렉토리와 구조는 다음과 같습니다.
 - code
 - docker
