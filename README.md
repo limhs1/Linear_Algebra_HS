@@ -1,7 +1,7 @@
 # Linear_Algebra_HS
 함성_선형대수학 스터디를 위한 저장소입니다.
 
-![프로그래머를 위한 선형대수]("https://lh3.googleusercontent.com/proxy/y32kj_VDMAr3Jul4-pJHdVWXfCRfr4wvRr-P7cip1nfghnKQ6noPHpBXSqDnrrhTwzZslR6Pqqsm3nDEizjv69RWul1PtXqo6geoBawROsV5WMXgmxtlqA")
+![프로그래머를 위한 선형대수](./refrence/unnamed.jpg)
 
 #### Peoples
 + [Kang](https://github.com/kyj0920)
