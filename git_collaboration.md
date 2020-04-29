@@ -18,9 +18,15 @@ Feature Branch Workflow: https://gmlwjd9405.github.io/2017/10/27/how-to-collabor
 Branch Type: https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html
 
 - Reference
+
 https://github.com/Taeung/git-training
+
 https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html
+
 https://mylko72.gitbooks.io/git/content/branch/branch_type.html
+
 http://blog.appkr.kr/learn-n-think/comparing-workflows/
+
 https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+
 https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
