@@ -6,7 +6,7 @@
 + [Kang](https://github.com/kyj0920)
 + Kim
 + [Ji](https://github.com/star6973)
-+ Lim
++ [Lim](https://github.com/limhs1)
 + [Choi](https://github.com/kwangjunechoi7)
 
 
@@ -25,4 +25,3 @@
 
 #### Seminar
 -
-
